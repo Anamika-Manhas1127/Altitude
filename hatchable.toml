@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Altitude Himalayan Treks"
+description = "Premium outdoor-magazine landing page for small-group guided Himalayan treks."
